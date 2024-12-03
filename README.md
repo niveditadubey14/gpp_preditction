@@ -8,7 +8,7 @@ This project aims to predict Gross Primary Productivity (GPP) using environmenta
 - **main.py**: Orchestrates the data pipeline and model training process.
 
 ## Usage
-1. Ensure you have the necessary libraries installed (`pandas`, `numpy`, `scipy`, `scikit-learn`).
+1. Ensure you have the necessary libraries installed (`pandas,` `numpy,` `scipy,` `scikit-learn`).
 2. Place your `train_data_pca.mat` and `test_data_pca.mat` files in the same directory.
 3. Run `main.py`.
 
@@ -21,6 +21,3 @@ This project aims to predict Gross Primary Productivity (GPP) using environmenta
 
 ## License
 [Your license here]
-
-## Contribution
-Feel free to fork this project and submit pull requests!
